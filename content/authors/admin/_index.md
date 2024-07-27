@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: Julián Álvarez Fotografía
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Julián
+last_name: Álvarez
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📷
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Fotoperiodista
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
-    url: https://www.stanford.edu/
+    url: https://www.telam.com.ar/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Fotógrafo de la hostia, enfocado en las grandes actividades populares, el deporte, la política y el arte.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
